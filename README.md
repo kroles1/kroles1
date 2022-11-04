@@ -1,6 +1,6 @@
 # Hi there 👋
 
----
+
 
 <div class="contact">
   <a href="https://www.linkedin.com/in/kornelia-oles/">
@@ -8,7 +8,6 @@
   </a>
 </div>
 
----
 
 ### My name is Kornelia 
 
