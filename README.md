@@ -1,6 +1,6 @@
-### Hi there 👋
-## My name is Kornelia 
-# I'm a tech trainee at futureproof, aiming to kick off my career in tech 
+# Hi there 👋
+### My name is Kornelia 
+- I'm a tech trainee at futureproof, aiming to kick off my career in tech 
 
 <!--
 **kroles1/kroles1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
