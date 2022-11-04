@@ -26,6 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 
-### :fire:
+
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kroles1&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
