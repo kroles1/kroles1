@@ -1,9 +1,10 @@
 # Hi there 👋
-### My name is Kornelia <div class="contact">
+<div class="contact">
   <a href="https://www.linkedin.com/in/kornelia-oles/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
+### My name is Kornelia 
 
 - I'm a tech trainee at futureproof, aiming to kick off my career in tech 
 
