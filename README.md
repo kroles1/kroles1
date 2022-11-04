@@ -4,7 +4,7 @@
 <div class="contact">
   - Don't hesitate to reach out!
   <a href="https://www.linkedin.com/in/kornelia-oles/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="Linkedin" alt="LinkedIn"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="Linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
 
